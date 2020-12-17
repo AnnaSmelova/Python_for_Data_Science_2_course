@@ -1,2 +1,5 @@
-# Python_for_Data_Science_2_course
-Курс Библиотеки Python для Data Science: продолжение
+# Курс Библиотеки Python для Data Science: продолжение
+
+### Homeworks
+
+Geek University: факультет Искусственного интеллекта
